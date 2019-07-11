@@ -4,5 +4,7 @@ This contains various code for building basic neural networks from scratch and u
 Sources:
 
 www.stackabuse.com
+
 www.jonathanweisberg.org
+
 www.digitalocean.com
